@@ -7,8 +7,8 @@
 - 🤔 I’m looking for help with turning ideas into practical and useful solutions
 - 💬 Ask me about **CSE, programming, AI/ML, web development, or my projects**
 - 📫 How to reach me: GitHub, LinkedIn, or through my portfolio
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I’m always curious about how things work—and usually end up building something to find out.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m always curious about how things work—and usually end up building something to find out.
 -  About Me
 I’m Tushar, a Computer Science & Engineering student who enjoys building software, exploring AI and Machine Learning, and turning ideas into practical projects. I’m always learning, experimenting with new technologies, and looking for opportunities to grow as a developer.
 
